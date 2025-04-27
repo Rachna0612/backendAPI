@@ -20,6 +20,6 @@ Follow these steps to get the project up and running on your computer:
 ### 1. Clone or Download the Project
 
 ```bash
-git clone <your-repository-link>
+git clone <https://github.com/Rachna0612/backendAPI>
 cd incident-log-api
 
